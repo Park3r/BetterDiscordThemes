@@ -984,7 +984,7 @@
 }
 #user-settings .cardPrimaryEditable-3KtE4g:not([style*="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"]):active .info-3LOr12::after {
     content: '';
-    animation: 150ms grow ease;
+    animation: 10ms grow ease;
 }
 @keyframes grow {
     0% {width:15px;height:15px;left:15px;top:14px;}
